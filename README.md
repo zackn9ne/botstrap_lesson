@@ -8,4 +8,5 @@ Go to your terminal. Hopefully you have `NPM` installed by now.
 $ mkdir your_newproject
 $ cd your_newproject
 $ npm install bootstrap@4.0.0-alpha.6
+$ npm install
 ```
